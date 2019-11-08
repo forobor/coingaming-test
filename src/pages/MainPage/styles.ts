@@ -15,10 +15,12 @@ export const Container = styled.div`
 `;
 
 export const Content = styled.div`
-  padding: 0 10%;
+  max-width: 1160px;
+	padding: 0 10%;
 
   @media ${device.mobile} {
-    padding: 0;
+    max-width: 100%;
+		padding: 0;
   }
 `;
 
@@ -30,6 +32,7 @@ export const Title = styled.h1`
 	color: #ffffff;
 	margin-top: 32px;
 	margin-bottom: 32px;
+	width: 100%;
 `;
 export const PromotionsContainer = styled.div`
 	display: flex;
