@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coingaming-test/static/css/main.dfca195d.chunk.css",
-    "main.js": "/coingaming-test/static/js/main.7c6a730b.chunk.js",
-    "main.js.map": "/coingaming-test/static/js/main.7c6a730b.chunk.js.map",
+    "main.js": "/coingaming-test/static/js/main.c6244513.chunk.js",
+    "main.js.map": "/coingaming-test/static/js/main.c6244513.chunk.js.map",
     "runtime-main.js": "/coingaming-test/static/js/runtime-main.1980cca7.js",
     "runtime-main.js.map": "/coingaming-test/static/js/runtime-main.1980cca7.js.map",
     "static/js/2.224976bc.chunk.js": "/coingaming-test/static/js/2.224976bc.chunk.js",
     "static/js/2.224976bc.chunk.js.map": "/coingaming-test/static/js/2.224976bc.chunk.js.map",
     "index.html": "/coingaming-test/index.html",
-    "precache-manifest.77fe76bdab1596c39c3551531cd6a811.js": "/coingaming-test/precache-manifest.77fe76bdab1596c39c3551531cd6a811.js",
+    "precache-manifest.ea0e4850ce07bff570532829cdf081e6.js": "/coingaming-test/precache-manifest.ea0e4850ce07bff570532829cdf081e6.js",
     "service-worker.js": "/coingaming-test/service-worker.js",
     "static/css/main.dfca195d.chunk.css.map": "/coingaming-test/static/css/main.dfca195d.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1980cca7.js",
     "static/js/2.224976bc.chunk.js",
     "static/css/main.dfca195d.chunk.css",
-    "static/js/main.7c6a730b.chunk.js"
+    "static/js/main.c6244513.chunk.js"
   ]
 }
