@@ -39,6 +39,9 @@ export const PromotionsContainer = styled.div`
 	justify-content: space-between;
 	align-items: center;
 	flex-wrap: wrap;
+  @media ${device.mobile} {
+		flex-direction: column;
+	}
 `;
 
 export const PromoContainer = styled.div`
@@ -46,5 +49,8 @@ export const PromoContainer = styled.div`
 	margin-right: 16px;
 	&:last-child {
 		margin-bottom: 0px;
+	}
+  @media ${device.mobile} {
+		margin-right: 0px;
 	}
 `;
