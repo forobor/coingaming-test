@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f232bbcaf701298f87fc850575f4ef9b",
+    "revision": "5928a7d31e9b22e6b1bcedfdf4925291",
     "url": "/coingaming-test/index.html"
   },
   {
-    "revision": "ed201b667622fb2cae84",
+    "revision": "48cc656668accd5b9612",
     "url": "/coingaming-test/static/css/main.dfca195d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coingaming-test/static/js/2.224976bc.chunk.js"
   },
   {
-    "revision": "ed201b667622fb2cae84",
-    "url": "/coingaming-test/static/js/main.c6244513.chunk.js"
+    "revision": "48cc656668accd5b9612",
+    "url": "/coingaming-test/static/js/main.203947c2.chunk.js"
   },
   {
     "revision": "7465907530da101796cf",

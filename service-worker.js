@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/coingaming-test/precache-manifest.ea0e4850ce07bff570532829cdf081e6.js"
+  "/coingaming-test/precache-manifest.4e700364b467750c1030c39750ed220f.js"
 );
 
 self.addEventListener('message', (event) => {
