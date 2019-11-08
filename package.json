@@ -1,45 +1,46 @@
 {
-  "name": "coingaming_test_app",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://forobor.github.io/coingaming-test/",
-  "dependencies": {
-    "@types/jest": "24.0.22",
-    "@types/node": "12.12.6",
-    "@types/react-dom": "16.9.4",
-    "@types/react-responsive": "^8.0.2",
-    "@types/styled-components": "^4.1.22",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
-    "react-responsive": "^8.0.1",
-    "react-scripts": "3.2.0",
-    "styled-components": "^4.4.1",
-    "typescript": "3.7.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+	"name": "coingaming_test_app",
+	"version": "0.1.0",
+	"private": true,
+	"homepage": "https://forobor.github.io/coingaming-test/",
+	"dependencies": {
+		"@types/jest": "24.0.22",
+		"@types/node": "12.12.6",
+		"@types/react-dom": "16.9.4",
+		"@types/react-responsive": "^8.0.2",
+		"@types/styled-components": "^4.1.22",
+		"react": "^16.11.0",
+		"react-dom": "^16.11.0",
+		"react-responsive": "^8.0.1",
+		"react-scripts": "3.2.0",
+		"styled-components": "^4.4.1",
+		"typescript": "3.7.2"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@types/react": "^16.9.11"
-  }
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"@types/react": "^16.9.11",
+		"gh-pages": "^2.1.1"
+	}
 }
